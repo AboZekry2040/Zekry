@@ -1,1 +1,0 @@
-function angularJs(){let n=document.querySelector(".audio");document.addEventListener("click",function(e){n.play()},{once:!0}),window.addEventListener("keydown",function(e){if("F102"==e.key||"F10"==e.key||"f6"==e.key)return e.preventDefault(),!1}),window.addEventListener("contextmenu",function(e){return e.preventDefault(),!1})}
